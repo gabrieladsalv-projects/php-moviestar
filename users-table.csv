@@ -1,0 +1,7 @@
+"id";"name";"lastname";"email";"password";"image";"bio";"token"
+1;"teste";"teste";"teste@create.com";"$2y$10$qJnBE6.jQMgG/IuQmLeEKOKLkQq2Fde9fC7UnUtFMXccPQD.RavLO";"";"";"d31576e26c1d5a8f8e129708057e7def025e4243f642f355fead1c9b65b2ed6cbca2eadd1f29c68cfda8107910161957657b"
+2;"testando";"testando";"teste2@create.com";"$2y$10$U3H.ulehK6gKC1CXfuWBLORNvgYpDl2ZjjyTlV57YnBvtCvePbh/m";"";"";"b306ed35537d29bd01015de05e81d858a4e7310f6d97b580be779561a3e61f1c87853e198084b36e92785efb67f06f12264c"
+3;"nsei";"nsei";"abc@abc.com";"$2y$10$dv78YhSlJ8d0Q3hxMJVXzu5ywqbBrVNI0Qyhog/m8EWRUq8sqTqIm";"";"";"b259e56a17c5fbc4995a3e6e75c3408f8b02f1a2bc7b9d4cb4e21ddf0c0a17bdef6b37989f60bd20d97465584529cdda6d44"
+4;"teste";"teste";"teste3@create.com";"$2y$10$3aaX/aCCZHxxEuvsrs4BmuHBr2ycMAT04jQLmfjs7AovgDvfeRzcG";"";"";"66fd35a18b85820f08599b03fee106f2abaf4621f69534f0605776ff7b6090f4c7bd7f199724eb13e0fc609811ced35619ae"
+5;"qualquer um";"qualquer um";"def@gmail.com";"$2y$10$0dXPHEp75Jh5zugCdlfoI..L4U57C0U4wUjssbrskBOaJHpWFciCO";"";"";"1d515053cd97c4ab0329f9740f6d0cb677c096b205718d3b3ecb19ffa5180f819383316189abd52688f4533784dc4064a23f"
+6;"Gabriel";"Alvarenga";"gabriel.dsalvarenga@gmail.com";"$2y$10$QUg/zrhQHPdHheuTTsECquKUwkRol2vVuGe3JZg.31tKCD3k4R7ZW";"b04eec2a071b8840ce5a0267465c29bbde4a6e3cecb38a71fe5265bd25b97d30f64247437839ab8cd97e05d943c102b5661f051512084f4b0aa6ced9.jpg.jpeg";"sou um programador";"195ad5ca9ee94ce57adb42078b35e91fda8c38a750c29367461b501a5389d6fb68423b9ac7bdb5cb999de3d5801e0bfa9090"
